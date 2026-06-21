@@ -1,0 +1,6 @@
+﻿context,format,dpi,background
+Journal raster,TIFF/PNG,300–600,white
+Journal vector,PDF/SVG,vector,white/transparent
+Thesis,PNG/PDF,300–600,white
+Presentation,PNG/PDF,150–300,white/transparent
+Poster,PDF/PNG,300,white

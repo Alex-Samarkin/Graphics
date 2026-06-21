@@ -17,6 +17,8 @@ dependencies = [
     "ipykernel",
     "pillow>=12.2.0",
     "pypdf>=6.13.3",
+    "statsmodels>=0.14.6",
+    "questionary>=2.1.1",
 ]
 
 [tool.uv]

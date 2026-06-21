@@ -1,0 +1,4 @@
+﻿axis,label,has_unit_marker
+x,"ИМТ, кг/м²",True
+y,"Систолическое АД, мм рт. ст.",True
+bad_example,value,False
