@@ -1,0 +1,23 @@
+[project]
+name = "scientific-graphics-handbook"
+version = "0.1.0"
+description = "Standalone Python figures for a methodological handbook on scientific graphics in medical research."
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "numpy",
+    "pandas",
+    "scipy",
+    "matplotlib",
+    "seaborn",
+    "scikit-learn",
+    "lifelines",
+    "statannotations",
+    "jupyter",
+    "ipykernel",
+    "pillow>=12.2.0",
+    "pypdf>=6.13.3",
+]
+
+[tool.uv]
+package = false

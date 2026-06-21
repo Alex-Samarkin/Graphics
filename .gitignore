@@ -1,0 +1,40 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# uv
+uv.lock
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code local settings
+.vscode/settings.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Generated figures can be large.
+# Remove the next line if you want to version generated figures.
+figure/*
+!figure/.gitkeep
+
+# Data can contain local or sensitive files.
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
